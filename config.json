@@ -8,10 +8,10 @@
   "cdn": "",
   "database": {
     "type": "mysql",
-    "host": "db4free.net",
+    "host": "mysql.sqlpub.com",
     "port": 3306,
     "user": "alistn",
-    "password": "123.asdf",
+    "password": "c7a4c0703366ab03",
     "name": "alistn",
     "db_file": "data/data.db",
     "table_prefix": "_alist",
