@@ -14,7 +14,7 @@
     "password": "c7a4c0703366ab03",
     "name": "alistn",
     "db_file": "data/data.db",
-    "table_prefix": "_alist",
+    "table_prefix": "_alist1",
     "ssl_mode": ""
   },
   "scheme": {
