@@ -7,12 +7,12 @@
   "site_url": "",
   "cdn": "",
   "database": {
-    "type": "mysql",
-    "host": "mysql.sqlpub.com",
-    "port": 3306,
-    "user": "alistn",
+    "type": "postgres",
+    "host": "postgres://alist:5VVVt8mHmvU19RT8AUBsTe2BeIWaOx85@dpg-cg4kt6seoogtrlt26psg-a/alist_9bm9",
+    "port": 5432,
+    "user": "alist",
     "password": "c7a4c0703366ab03",
-    "name": "alistn",
+    "name": "alist_9bm9",
     "db_file": "data/data.db",
     "table_prefix": "_alist",
     "ssl_mode": ""
