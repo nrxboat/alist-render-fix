@@ -7,14 +7,14 @@
   "site_url": "",
   "cdn": "",
   "database": {
-    "type": "mysql", //填写数据库类型
-    "host": "0.0.0.0", //数据库地址
-    "port": 3306, //数据库端口
-    "user": "alist", //数据库用户
-    "password": "00000000", //数据库密码
-    "name": "alistn", //数据库名
+    "type": "mysql", # 填写数据库类型
+    "host": "0.0.0.0", #数据库地址
+    "port": 3306, #数据库端口
+    "user": "alist", #数据库用户
+    "password": "00000000", #数据库密码
+    "name": "alistn", #数据库名
     "db_file": "data/data.db",
-    "table_prefix": "_alist1", 数据库表//
+    "table_prefix": "_alist1",  #数据库表
     "ssl_mode": ""
   },
   "scheme": {
